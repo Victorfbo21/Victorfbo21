@@ -3,6 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
  <img width=40% align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Victorfbo21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
  </div>
  
  &nbsp;
@@ -10,7 +11,6 @@
 
 
 ## My Skills
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Victorfbo21&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 #### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
