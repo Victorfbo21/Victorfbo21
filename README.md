@@ -3,6 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
  <img width=40% align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Victorfbo21)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
  &nbsp;
