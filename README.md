@@ -3,7 +3,7 @@
 
 <div  align="center" style="margin-bottom:100px">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api?username=Victorfbo21" />
+  <img height=200 align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api?username=Victorfbo21&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api/top-langs?username=Victorfbo21&layout=compact&langs_count=8&card_width=320&theme=dracula" />
