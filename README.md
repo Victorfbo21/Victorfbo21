@@ -7,11 +7,6 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats-seven-phi-68.vercel.app/api/top-langs?username=Victorfbo21&layout=compact&langs_count=8&card_width=320&theme=dracula" />
- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Victorfbo21&theme=highcontrast&hide_border=true&type=png" alt="GitHub Streak">
-  </a>
-</p>
  </div>
  
  &nbsp;
