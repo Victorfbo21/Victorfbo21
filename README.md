@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Node.js to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Eu amo resolver grandes desafios usando tecnologia. Desde o desenvolvimento de backend com Node.js até o desenvolvimento de frontend com ReactTS, sou apaixonado por descobrir coisas novas e utilizá-las para criar soluções de alta qualidade. Atualmente, sou um desenvolvedor full stack de nível intermediário focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  <a href="https://github.com/anuraghazra/github-readme-stats">
